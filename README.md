@@ -1,4 +1,5 @@
 # learniggit
 i am building something new
 <br>
-author-surya
+author-surya tripathi
+
